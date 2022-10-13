@@ -4,8 +4,6 @@ import Input from "../components/Input";
 const Form=()=> {
     const form = useRef(null)
 
-    www.github.com/edualt
-
     const handleLogin=(e)=> {
         e.preventDefault();
 
